@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a product catalog manager** 
+ **I need a product catalog to manage all items** 
+ **So that I can frequently manage my items** 
    
  ### Details and Assumptions
  * [document what you know]
