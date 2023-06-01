@@ -17,7 +17,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given I have a product catalog with 100 items
+ When I retrieve, update, delete, like, dislike an item
+ Then the item in the product catalog status is accordingly retrieved, updated, deleted, liked or disliked
  ```
